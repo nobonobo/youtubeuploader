@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/porjo/youtubeuploader/internal/utils"
+	"github.com/porjo/youtubeuploader/utils"
 	"golang.org/x/time/rate"
 )
 

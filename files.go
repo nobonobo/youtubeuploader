@@ -25,7 +25,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/porjo/youtubeuploader/internal/utils"
+	"github.com/porjo/youtubeuploader/utils"
 	"google.golang.org/api/youtube/v3"
 )
 

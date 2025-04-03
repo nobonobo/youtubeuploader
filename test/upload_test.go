@@ -32,8 +32,8 @@ import (
 	"time"
 
 	yt "github.com/porjo/youtubeuploader"
-	"github.com/porjo/youtubeuploader/internal/limiter"
-	"github.com/porjo/youtubeuploader/internal/utils"
+	"github.com/porjo/youtubeuploader/limiter"
+	"github.com/porjo/youtubeuploader/utils"
 	"google.golang.org/api/youtube/v3"
 )
 

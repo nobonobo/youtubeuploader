@@ -21,7 +21,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/porjo/youtubeuploader/internal/limiter"
+	"github.com/porjo/youtubeuploader/limiter"
 )
 
 type Progress struct {

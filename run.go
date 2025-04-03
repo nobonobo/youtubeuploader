@@ -24,8 +24,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/porjo/youtubeuploader/internal/limiter"
-	"github.com/porjo/youtubeuploader/internal/progress"
+	"github.com/porjo/youtubeuploader/limiter"
+	"github.com/porjo/youtubeuploader/progress"
 	"golang.org/x/oauth2"
 	"google.golang.org/api/googleapi"
 	"google.golang.org/api/option"
